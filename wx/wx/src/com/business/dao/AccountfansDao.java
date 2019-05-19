@@ -10,7 +10,7 @@ import com.eplat.db.dao.BaseDao;
  * @类名称：AccountfansDao
  * @类描述：关注粉丝
  * @创建人：代码生成器
- * @创建时间：2019年02月27日 14:30:12
+ * @创建时间：2019年02月27日 14:30:12  55
  */
 public class AccountfansDao extends AbstractBaseDao implements BaseDao {
     /**
